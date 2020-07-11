@@ -1,0 +1,17 @@
+.social-media{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height:4rem;
+    justify-content: space-around;
+    width:13rem;
+  }
+
+  .footer {
+        padding-bottom: 7rem;
+        height: 90px;
+        background-color:rgb(130,217,227);        
+  }
+  .footer p{
+    text-align: center;
+  }
